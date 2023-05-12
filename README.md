@@ -1,5 +1,6 @@
 # Shape Area Calculator
-## This is a Java program that calculates the area of different shapes using the Singleton Pattern and interface-based design.
+
+### This is a Java program that calculates the area of different shapes using the Singleton Pattern and interface-based design.
 
 * The project is a Java program that calculates the area of different shapes, such as Circle, Square, Rectangle, and Triangle.
 
